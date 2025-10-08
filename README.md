@@ -15,7 +15,7 @@ Right now, I’m:
 - 🚀 Working on **POWERSAVVY** – a smart home electricity management system that promotes sustainable living.  
 - 💡 Exploring the world of **ML** from scratch (it’s giving brain expansion vibes 🧠).  
 - 🧩 Building cool side projects with **C++**, **JS**, and sometimes sprinkling in **Python**.  
-- ☕ Dreaming of interning at **Google** and building tech that *actually matters*.  
+- ☕ Dreaming of building tech that *actually matters*.  
 
 ---
 
