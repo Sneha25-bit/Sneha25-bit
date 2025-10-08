@@ -53,7 +53,7 @@ Right now, I’m:
 
 🌱 **[POWERSAVVY](#)** — Smart energy management system for homes.  
 🎲 **Ludo JS** — A fun, interactive Ludo game built with HTML/CSS/JS.  
-📱 **Internship Management App** — Bridging students, colleges & industries under NEP.  
+📱 **Ocean exploration app** — Explore life underwater with just one click.  
 *(more dropping soon... stay tuned 👀)*  
 
 ---
@@ -61,8 +61,7 @@ Right now, I’m:
 ## 🎯 2025 Goals ✨  
 
 - 🔹 Master Machine Learning fundamentals  
-- 🔹 Contribute to Open Source  
-- 🔹 Land a dream **Google Internship**  
+- 🔹 Contribute to Open Source   
 - 🔹 Win a hackathon (or two 😉)  
 - 🔹 Keep learning, creating, and growing 🌱  
 
@@ -74,9 +73,8 @@ I love meeting like-minded folks who think beyond the obvious!
 Find me here 👇  
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sneha-kumari-shuffled720/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itssnehaaa_25/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
