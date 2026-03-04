@@ -21,7 +21,7 @@ Right now, I’m:
 
 ## ⚙️ Tech Stack 🧰  
 💻 Languages: C++, Python, JavaScript
-🌐 Frontend: HTML, CSS, Tailwind, React (learning!)
+🌐 Frontend: HTML, CSS, Tailwind, React.
 ⚙️ Tools: Git, VS Code, Figma
 📊 Concepts: DSA, OOP, ML (beginner), Digital Logic
 
@@ -49,23 +49,6 @@ Right now, I’m:
 
 ---
 
-## 💼 Projects You Might Wanna Check Out 🚀  
-
-🌱 **[POWERSAVVY](#)** — Smart energy management system for homes.  
-🎲 **Ludo JS** — A fun, interactive Ludo game built with HTML/CSS/JS.  
-📱 **Ocean exploration app** — Explore life underwater with just one click.  
-*(more dropping soon... stay tuned 👀)*  
-
----
-
-## 🎯 2025 Goals ✨  
-
-- 🔹 Master Machine Learning fundamentals  
-- 🔹 Contribute to Open Source   
-- 🔹 Win a hackathon (or two 😉)  
-- 🔹 Keep learning, creating, and growing 🌱  
-
----
 
 ## 🌈 Let’s Connect 💬  
 
@@ -83,13 +66,4 @@ Find me here 👇
 > “Think it. Build it. Ship it. Learn from it. Repeat.” 🚀  
 > — Sneha  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneha&show_icons=true&theme=radical" alt="Sneha's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
